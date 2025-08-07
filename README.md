@@ -24,9 +24,9 @@ The goal of this project is to:
 
 | File Name          | Description                                      |
 |-------------------|--------------------------------------------------|
-| olympicmedals.m | Main script that generates the plots             |
-| medalData.mat   | Contains countries, medal counts, and rankings   |
-| README.md       | Project documentation (this file)                |
+| `olympicmedals.m` | Main script that generates the plots             |
+| `medalData.mat`   | Contains countries, medal counts, and rankings   |
+| `README.md`       | Project documentation (this file)                |
 
 ---
 
