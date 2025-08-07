@@ -16,7 +16,7 @@ The goal of this project is to:
 
 ## 🖼 Output Screenshot
 
-[output]("https://github.com/aneeshasoni1107-crypto/olympic-medals-matlab/blob/main/medaloutput.png")
+[output chart]("medaloutput.png")
 
 ---
 
