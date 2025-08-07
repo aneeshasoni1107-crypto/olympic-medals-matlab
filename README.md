@@ -16,7 +16,7 @@ The goal of this project is to:
 
 ## 🖼 Output Screenshot
 
-![Output Chart]("")
+![Output Chart]("output.png")
 
 ---
 
