@@ -11,12 +11,12 @@ The goal of this project is to:
 - Practice working with .mat files and data visualization in MATLAB
 - Learn how to use *bar charts, **stacked plots, and **dual y-axes*
 - Represent complex data (medals + rankings) in an easy-to-understand graph
+- Explore Data with MATLAB plots
+- MATLAB Desktop tools and Troubleshooting Scripts
 
 ---
 
-## 🖼 Output Screenshot
 
-[output chart]("medaloutput.png")
 
 ---
 
